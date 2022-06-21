@@ -2,7 +2,7 @@
 
 ```bash
 # Test Environment Variable for vercel
-DATABASE_URL=mysql://ndxd907p7y:A9qOcpTpXc@remotemysql.com:3306/ndxd907p7y
+DATABASE_URL=mysql://XXXXXXXXXx
 ```
 
 ```bash
